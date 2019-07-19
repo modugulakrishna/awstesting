@@ -169,7 +169,7 @@ This project is organized as follows (some files not shown):
 	    │       ├── model   - Model classes
 	    │       │   ├── Media.java
 	    │       │   └── Movie.java
-	    │       └── web     - Servlet and simple tag classes
+	    │       └── web     - Servlet and simple tag classes ddd
 	    │           ├── AddMovie.java
 	    │           ├── ListMovies.java
 	    │           └── SearchMovies.java
